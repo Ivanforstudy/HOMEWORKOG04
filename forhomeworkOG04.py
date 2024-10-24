@@ -5,3 +5,7 @@ print("A - B")
 C = 25
 D = 2
 print("C * D")
+
+NAME = input()
+print("NAME")
+
